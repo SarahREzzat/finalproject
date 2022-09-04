@@ -1,0 +1,38 @@
+           Using CI/CD for our UdaPeople project
+
+
+1244 London
+MSSIL ILC. 655190
+5th Sept 2022
+(03)22335
+
+
+We have a massive project called UdaPeople, this project has a large lifecycle with many edits
+that's why are thinking about using CI/CD pipelines, 
+Why CI/CD and what's CI/CD ?
+CI/CD means containous Integration, which means our main code repo will always be up-to-date
+however CD means containous Deployment to our environments.
+
+Why as a project manager asking to apply this new approach with this project?
+Actually CI/CD has many advantages on the developement lifecycle and in the business part too
+there is some samples of the advantages of CI/CD
+CI/CD provides:
+
+- Catch Compile Errors After Merge:
+    which means Less developer time on issues from new developer code and that will save developers time 
+    to work on more projects.
+- Automate Infrastructure Creation:
+    which means Less human error, Faster deployments, and that will help us to get more customers,
+    projects and get the customer satisfaction.
+- Deploy to Production Without Manual Checks:
+    which means Less time to market, that will keep us close the users and customers 
+- Automated Rollback Triggered by Job Failure:
+    which means quick undo to return production to working state, that will help with stable production
+    environment and the manage of errors is more fast and Automated
+
+that last import thing that, that impact of using CI/CD is visable, measurable and very quick 
+having such technology will keep our company in the first line, we can do it and move forward
+
+Sincerely,
+
+Sarah Refaat
